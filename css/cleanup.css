@@ -1,1 +1,22 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+  }
+#wall .tag-2 {
+    background-color: blue;
+    z-index: 400;
+    font-size: large;
+    display: block;
+  }
+#wall .tag-3 {
+    background-color: red;
+    z-index: 300;
+    font-size: large;
+    display: block;
+  }
+  #wall .tag-4 {
+    background-color: pink;
+    z-index: 300;
+    font-size: large;
+    display: block;
+  }
